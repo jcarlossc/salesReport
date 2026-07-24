@@ -1,0 +1,16 @@
+Package: salesReport
+Type: Package
+Title: Relatório Financeiro de Vendas
+Version: 0.1.0
+Authors@R: c(
+    person(
+      "Carlos", "da Costa",
+      email = "jane@example.com",
+      role = c("aut", "cre")
+    )
+  )
+Description: More about what it does (maybe more than one line).
+    Continuation lines should be indented.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
